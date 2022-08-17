@@ -356,6 +356,8 @@ $ cd ~/dev_ws/src
         [INFO] [1658726618.444557197] [minimal_publisher_subscriber]: I heard: "Hello World: 4"
         [INFO] [1658726618.943250358] [minimal_publisher_subscriber]: Publishing: "Hello World: 5"
         [INFO] [1658726618.944787046] [minimal_publisher_subscriber]: I heard: "Hello World: 5"
+        [INFO] [1658726618.943250358] [minimal_publisher_subscriber]: Publishing: "Hello World: 6"
+        [INFO] [1658726618.944787046] [minimal_publisher_subscriber]: I heard: "Hello World: 6"
         ...
         ```
 
